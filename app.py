@@ -86,7 +86,7 @@ def device_all_off():
     return True
 
 def schedule_run():
-    if is_there_person():
+    if not is_there_person():
         device_all_off()
 
 
