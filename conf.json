@@ -1,0 +1,9 @@
+{
+	"rasp_id":"test_id",
+	"rasp_pw":"test_pw",
+	"rasp_group":"test_group",
+	"api_server_url":"127.0.0.1:5555",
+	"image_server_url":"127.0.0.1:6666",
+	"devices_json_path":"./devices.json",
+	"schedule_time":30
+}
